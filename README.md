@@ -4,34 +4,34 @@ The College Admission System is a Java-based application designed to streamline 
 
 Features:
 
-Admin Login: Secure login for administrators to manage student data and assign colleges.
+- Admin Login: Secure login for administrators to manage student data and assign colleges.
 
-Student Forms: Students can enter personal and educational details through intuitive forms.
+- Student Forms: Students can enter personal and educational details through intuitive forms.
 
-Viewing Details: Both students and administrators can view entered details.
+- Viewing Details: Both students and administrators can view entered details.
 
-Checking Status: Students can check the status of their college assignment.
+- Checking Status: Students can check the status of their college assignment.
 
-Database Integration: All data is stored and managed using an MS Access database.
+- Database Integration: All data is stored and managed using an MS Access database.
 
 Tech Stack:
 
-Programming Language: Java
+- Programming Language: Java
 
-IDE: NetBeans 8.2
+- IDE: NetBeans 8.2
 
-Database: MS Access
+- Database: MS Access
 
-Libraries: Java Swing, JavaFX
+- Libraries: Java Swing, JavaFX
 
 How It Works:
 
-Admin Login: Administrators log in using their credentials to access the admin panel.
+- Admin Login: Administrators log in using their credentials to access the admin panel.
 
-Student Forms: Students fill out personal and educational details through the provided forms.
+- Student Forms: Students fill out personal and educational details through the provided forms.
 
-Data Storage: The entered data is saved in the MS Access database.
+- Data Storage: The entered data is saved in the MS Access database.
 
-Admin Assigning Colleges: Administrators view student details and assign colleges based on predefined criteria.
+- Admin Assigning Colleges: Administrators view student details and assign colleges based on predefined criteria.
 
-Checking Status: Students can check the status of their college assignment through the system.
+- Checking Status: Students can check the status of their college assignment through the system.
